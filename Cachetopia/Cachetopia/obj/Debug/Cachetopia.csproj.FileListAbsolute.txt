@@ -1,0 +1,13 @@
+D:\CachetopiaMaterial\Cachetopia\Cachetopia\bin\Debug\Cachetopia.exe.config
+D:\CachetopiaMaterial\Cachetopia\Cachetopia\bin\Debug\Cachetopia.exe
+D:\CachetopiaMaterial\Cachetopia\Cachetopia\bin\Debug\Cachetopia.pdb
+D:\CachetopiaMaterial\Cachetopia\Cachetopia\bin\Debug\MaterialSkin.dll
+D:\CachetopiaMaterial\Cachetopia\Cachetopia\obj\Debug\Cachetopia.csproj.AssemblyReference.cache
+D:\CachetopiaMaterial\Cachetopia\Cachetopia\obj\Debug\Cachetopia.csproj.SuggestedBindingRedirects.cache
+D:\CachetopiaMaterial\Cachetopia\Cachetopia\obj\Debug\Cachetopia.Form1.resources
+D:\CachetopiaMaterial\Cachetopia\Cachetopia\obj\Debug\Cachetopia.Properties.Resources.resources
+D:\CachetopiaMaterial\Cachetopia\Cachetopia\obj\Debug\Cachetopia.csproj.GenerateResource.cache
+D:\CachetopiaMaterial\Cachetopia\Cachetopia\obj\Debug\Cachetopia.csproj.CoreCompileInputs.cache
+D:\CachetopiaMaterial\Cachetopia\Cachetopia\obj\Debug\Cachetopia.csproj.CopyComplete
+D:\CachetopiaMaterial\Cachetopia\Cachetopia\obj\Debug\Cachetopia.exe
+D:\CachetopiaMaterial\Cachetopia\Cachetopia\obj\Debug\Cachetopia.pdb

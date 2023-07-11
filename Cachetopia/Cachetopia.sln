@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cachetopia", "Cachetopia\Cachetopia.csproj", "{F8EF0BA6-86E3-42FE-8D51-DA25BA2BF140}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8EF0BA6-86E3-42FE-8D51-DA25BA2BF140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8EF0BA6-86E3-42FE-8D51-DA25BA2BF140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8EF0BA6-86E3-42FE-8D51-DA25BA2BF140}.Debug|x86.ActiveCfg = Debug|x86
+		{F8EF0BA6-86E3-42FE-8D51-DA25BA2BF140}.Debug|x86.Build.0 = Debug|x86
+		{F8EF0BA6-86E3-42FE-8D51-DA25BA2BF140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8EF0BA6-86E3-42FE-8D51-DA25BA2BF140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8EF0BA6-86E3-42FE-8D51-DA25BA2BF140}.Release|x86.ActiveCfg = Release|x86
+		{F8EF0BA6-86E3-42FE-8D51-DA25BA2BF140}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88EB302A-6DF1-42DC-AEC2-3DD7EA79D5CE}
+	EndGlobalSection
+EndGlobal
